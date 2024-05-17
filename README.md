@@ -23,11 +23,16 @@ Simon Worthington: German National Library of Science and Technology (TIB), Hano
 
 #semanticClimate is an international open research project led by young Indian scientists. The project goal is to make access to scientific climate change knowledge equitable. To achieve the goal #semanticClimate has two areas of activity; firstly, creating software tools for semantic searching of climate change literature, and; secondly, enabling citizen science events, activities, and community building. The article will survey #semanticClimate’s community building efforts to date. For community building and citizen science engagement the #semanticClimate project employs strategies, techniques, and ideas from the fields of: Open Science, open-source software culture and projects, and Citizen Science. These include for example: from Open Science — Open Notebook Science, the UNESCO Open Science values, and knowledge justice for example in regards to colonial bias in science; from open-source — hackathons, open and transparent working practices, and using Git versioning; and from Citizen Science — designing community outreach activities (games), giving attribution to all participants, and engaging the wider public in the culture and practices of science (verifiable knowledge, review, data science, modern infrastructure use, etc).
 
-# Outline
+# Outline (7000 words)
 
-- Framing ideas for paper: Show what community building efforts #semanticClimate has carried out. Evaluate the activities against the stated mission and goals and make proposals for future community building activities. Position the recent Feburary 2024 India Tour as a watershed moment for these community building efforts (the tour needs documenting and it fits the rationelle and supports a useful narrative). 
+- Framing ideas for paper: (1000 words intro, conclusion, other bits)
+  - Show what community building efforts #semanticClimate has carried out.
+  - Evaluate the activities against the stated mission and goals and make proposals for future community building activities.
+  - Position the recent Feburary 2024 India Tour as a watershed moment for these community building efforts (the tour needs documenting and it fits the rationelle and supports a useful narrative).
+  - How will we engage community re: UN IPCC - here think 'replicable activities, a la viral memes'.
 - About #semantiClimate (1000 words)
   - The climate emergency and academe
+  - Current focus of UN ClimateKG
   - Mission, Goals, Strategic Directions, Milestones, Evaluation
     - Mission
     - Goals
@@ -38,6 +43,7 @@ Simon Worthington: German National Library of Science and Technology (TIB), Hano
     - Knowledge justice and knowledge equity
     - Inclusion
     - Feminism
+    - Colonialism and science
   - Organogram
   - Similar communities, projects, organisations in academia and the climate space? Typology. List what we know about and categorise (table).
 - Our community activities and polcies / tools: Doing community. (700 words)
@@ -53,6 +59,7 @@ Simon Worthington: German National Library of Science and Technology (TIB), Hano
   -  Polcies / tools
      -  Code of conduct
      -  Open Notebook Science
+     -  Methodologies borrowed
 - Who is the community
   - Types
   - Numbers:
@@ -67,7 +74,7 @@ Simon Worthington: German National Library of Science and Technology (TIB), Hano
   - UNESCO: OER, Open Science, what's next
   - UN IPCC Publishing 
   - The role of research libraries: Copyright and the criminalisation of reading
-- Evaluating our community practice and outomes (600 words)
+- Evaluating our community practice, outcomes, learning (600 words)
 - Definitions
 - Misc
   - S.R. Ranganathan and 19C/20C to 21C knowledge systems
