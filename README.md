@@ -54,24 +54,26 @@ Simon Worthington: German National Library of Science and Technology (TIB), Hano
      -  Code of conduct
      -  Open Notebook Science
 - Who is the community
+  - Types
   - Numbers:
   - Impact: qualitive and quantative
 - Chronology of community activities (2000 words)
   - of #sC community activies; categorised by types (hackathons, workshops, schools, community science); deposit events in confident doi system; log in WBCloud and make timeline.
   - of Feb 2024 India Tour
-- What are we doing with community
-  - How software is made
+- Community and UN Climate Literature  (1000 words)
+- What are we doing with community (600 words)
+  - How software is made: Alpha tester; contributor
   - Citizen science vs community science
   - UNESCO: OER, Open Science, what's next
   - UN IPCC Publishing 
   - The role of research libraries: Copyright and the criminalisation of reading
-
-
-- S.R. Ranganathan and 19C/20C to 21C knowledge systems
-- AI and Open Science
+- Evaluating our community practice and outomes (600 words)
 - Definitions
-- How we made this paper: All papers should be semantic and computational - now!
-- The role of research libraries: Copyright and the criminalisation of reading
+- Misc
+  - S.R. Ranganathan and 19C/20C to 21C knowledge systems
+  - AI and Open Science
+  - How we made this paper: All papers should be semantic and computational - now!
+  - The role of research libraries: Copyright and the criminalisation of reading
 
 # Text
 
