@@ -16,9 +16,48 @@ Simon Worthington: German National Library of Science and Technology (TIB), Hano
 
 # Outline
 
+- Chronology
+- Organogram
+- Code of conduct
+- Mission, Goals, Milestones, Evaluation
+- Knowledge justice and knowledge equity
+- Values
+- How software is made
+- Citizen science vs community science
+- UNESCO: OER, Open Science
+- UN IPCC Publishing: Blind spots
+- Our community activities:
+  -  Hackathons
+  -  Open Notebook Science
+  -  GitHub
+  -  Open channels
+  -  Schools and young people
+  -  ECR scientsist
+  -  The grey revolution
+  -  Being global
+- Who is the community
+ - Numbers:
+ - Impact: qualitive and quantative
+- S.R. Ranganathan and 19C/20C to 21C knowledge systems
+- AI and Open Science
+- Definitions
+- How we made this paper: All papers should be semantic and computational - now!
+- The role of research libraries: Copyright and the criminalisation of reading
+
 # Text
 
 # Submission requirements information
+
+# Notes
+
+# References
+
+https://www.zotero.org/groups/2437020/semanticclimate/collections/94RK3L7Y/tags/sc-community/collection
+
+
+
+  Leung, Sofia Y., and Jorge R. López-McKnight, eds. Knowledge Justice: Disrupting Library and Information Studies through Critical Race Theory. Cambridge, Massachusetts: The MIT Press, 2021.
+
 
 
 
