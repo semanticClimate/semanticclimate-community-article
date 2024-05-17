@@ -40,7 +40,7 @@ Simon Worthington: German National Library of Science and Technology (TIB), Hano
     - Milestones
     - Evaluation, reporting, and feedback
   - Values
-    - Knowledge justice and knowledge equity
+    - Knowledge justice and knowledge equity (Leung and López-McKnight 2021)
     - Inclusion
     - Feminism
     - Colonialism and science
