@@ -56,7 +56,7 @@ https://www.zotero.org/groups/2437020/semanticclimate/collections/94RK3L7Y/tags/
 
 
 
-  Leung, Sofia Y., and Jorge R. López-McKnight, eds. Knowledge Justice: Disrupting Library and Information Studies through Critical Race Theory. Cambridge, Massachusetts: The MIT Press, 2021.
+Leung, Sofia Y., and Jorge R. López-McKnight, eds. 2021. Knowledge Justice: Disrupting Library and Information Studies through Critical Race Theory. Cambridge, Massachusetts: The MIT Press. https://doi.org/10.7551/mitpress/11969.001.0001.
 
 
 
