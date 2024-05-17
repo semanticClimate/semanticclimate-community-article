@@ -1,4 +1,4 @@
-# The #semanticClimate Community
+# Working title: The #semanticClimate Community
 
 ALIS article submission: The #semanticClimate Community https://semanticclimate.github.io/p/en/events/journal_ALIS/ 
 
@@ -8,7 +8,16 @@ Shweata Hegde, Peter Murray-Rust, and Simon Worthington
 
 # Affiliations
 
+Shweata Hegde
+
+Peter Murray-Rust
+
 Simon Worthington: German National Library of Science and Technology (TIB), Hanover, Germany. 
+
+# Paper submission technicalities
+
+ - 4.5-7k words + references
+ - List all figures in spreadsheet
 
 # Abstract
 
@@ -16,13 +25,34 @@ Simon Worthington: German National Library of Science and Technology (TIB), Hano
 
 # Outline
 
-- Chronology
-- The climate emergency
-- Organogram
+- Framing ideas for paper: Show what community building efforts #semanticClimate has carried out. Evaluate the activities against the stated mission and goals and make proposals for future community building activities. Position the recent Feburary 2024 India Tour as a watershed moment for these community building efforts (the tour needs documenting and it fits the rationelle and supports a useful narrative). 
+- About #semantiClimate (1000 words)
+  - The climate emergency and academe
+  - Mission, Goals, Strategic Directions, Milestones, Evaluation
+    - Mission
+    - Goals
+    - Strategic directions
+    - Milestones
+    - Evaluation, reporting, and feedback
+  - Values
+    - Knowledge justice and knowledge equity
+  - Organogram
+  - Similar activities and communities in academia and the climate space?
+- Our community activities and instuments and mechanisms:
+  -  Hackathons
+  -  Open Notebook Science
+  -  GitHub
+  -  Open channels
+  -  Schools and young people
+  -  ECR scientsist
+  -  The grey revolution
+  -  Being global
+- Chronology of community activities (2000 words)
+ - of #sC community activies; categorised by types (hackathons, workshops, schools, community science); deposit events in confident doi system; log in WBCloud and make timeline.
+ - of Feb 2024 India Tour
+- 
+
 - Code of conduct
-- Mission, Goals, Milestones, Evaluation
-- Knowledge justice and knowledge equity
-- Values
 - How software is made
 - Citizen science vs community science
 - UNESCO: OER, Open Science
@@ -55,9 +85,11 @@ Simon Worthington: German National Library of Science and Technology (TIB), Hano
 
 https://www.zotero.org/groups/2437020/semanticclimate/collections/94RK3L7Y/tags/sc-community/collection
 
-
-
 Leung, Sofia Y., and Jorge R. López-McKnight, eds. 2021. Knowledge Justice: Disrupting Library and Information Studies through Critical Race Theory. Cambridge, Massachusetts: The MIT Press. https://doi.org/10.7551/mitpress/11969.001.0001.
+
+# Figures
+
+# Data
 
 
 
