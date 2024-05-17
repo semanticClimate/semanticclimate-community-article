@@ -17,6 +17,7 @@ Simon Worthington: German National Library of Science and Technology (TIB), Hano
 # Outline
 
 - Chronology
+- The climate emergency
 - Organogram
 - Code of conduct
 - Mission, Goals, Milestones, Evaluation
