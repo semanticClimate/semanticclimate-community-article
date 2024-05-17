@@ -36,39 +36,37 @@ Simon Worthington: German National Library of Science and Technology (TIB), Hano
     - Evaluation, reporting, and feedback
   - Values
     - Knowledge justice and knowledge equity
+    - Inclusion
+    - Feminism
   - Organogram
-  - Similar activities and communities in academia and the climate space?
-- Our community activities and instuments and mechanisms:
-  -  Hackathons
-  -  Open Notebook Science
-  -  GitHub
-  -  Open channels
-  -  Schools and young people
-  -  ECR scientsist
-  -  The grey revolution
-  -  Being global
-- Chronology of community activities (2000 words)
- - of #sC community activies; categorised by types (hackathons, workshops, schools, community science); deposit events in confident doi system; log in WBCloud and make timeline.
- - of Feb 2024 India Tour
-- 
-
-- Code of conduct
-- How software is made
-- Citizen science vs community science
-- UNESCO: OER, Open Science
-- UN IPCC Publishing: Blind spots
-- Our community activities:
-  -  Hackathons
-  -  Open Notebook Science
-  -  GitHub
-  -  Open channels
-  -  Schools and young people
-  -  ECR scientsist
-  -  The grey revolution
-  -  Being global
+  - Similar communities, projects, organisations in academia and the climate space? Typology. List what we know about and categorise (table).
+- Our community activities and polcies / tools: Doing community. (700 words)
+  - Activities
+    -  Hackathons
+    -  GitHub
+    -  Open channels
+    -  Schools and young people
+    -  ECR scientists
+    -  The grey revolution
+    -  Being global
+    -  Taking care
+  -  Polcies / tools
+     -  Code of conduct
+     -  Open Notebook Science
 - Who is the community
- - Numbers:
- - Impact: qualitive and quantative
+  - Numbers:
+  - Impact: qualitive and quantative
+- Chronology of community activities (2000 words)
+  - of #sC community activies; categorised by types (hackathons, workshops, schools, community science); deposit events in confident doi system; log in WBCloud and make timeline.
+  - of Feb 2024 India Tour
+- What are we doing with community
+  - How software is made
+  - Citizen science vs community science
+  - UNESCO: OER, Open Science, what's next
+  - UN IPCC Publishing 
+  - The role of research libraries: Copyright and the criminalisation of reading
+
+
 - S.R. Ranganathan and 19C/20C to 21C knowledge systems
 - AI and Open Science
 - Definitions
