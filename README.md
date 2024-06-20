@@ -2,6 +2,8 @@
 
 ALIS article submission: The #semanticClimate Community https://semanticclimate.github.io/p/en/events/journal_ALIS/ 
 
+Article for review: https://docs.google.com/document/d/1ihhso6gfldWFdR1o8pP0W7Orbk7j2zcMCwyfv-qN1wY/edit#heading=h.mw5py0m7cym9
+
 # Authors
 
 Shweata Hegde, Peter Murray-Rust, and Simon Worthington
